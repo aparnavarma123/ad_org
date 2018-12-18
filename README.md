@@ -7,6 +7,7 @@ Problem Statement: For any video YouTube provides some data metrices such as Vie
 Submission
 
 vid_id |	ad_view
+
 VID_1	 |    1
 
 
