@@ -17,6 +17,6 @@ SVR- Support Vector Regression
 
 KNN- K nearest neighbour (5 neighbours)
 
-MLP- Multi layer perceptron with 13 hidden, 1 input and 1 output layer. Trained on 500 epochs.
+MLP- Multi layer perceptron with 13 hidden, 1 input and 1 output layer. Trained on 500 epochs.Screenshots of the loss during the epochs also uploaded.
 
 SVR comes out to perform better compared to the rest two.
