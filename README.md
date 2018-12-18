@@ -12,8 +12,11 @@ VID_1	 |    1
 
 
 Algorithms Used:
+
 SVR- Support Vector Regression
+
 KNN- K nearest neighbour (5 neighbours)
+
 MLP- Multi layer perceptron with 13 hidden, 1 input and 1 output layer. Trained on 500 epochs.
 
 SVR comes out to perform better compared to the rest two.
